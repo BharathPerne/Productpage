@@ -1,7 +1,7 @@
 const product = [
     {
         id: 0,
-        image: 'Image/skybags_image.jpg',
+        image: 'skybags_image.jpg',
         title: 'Sky-Bags Pro',
         price: 60,
     },
